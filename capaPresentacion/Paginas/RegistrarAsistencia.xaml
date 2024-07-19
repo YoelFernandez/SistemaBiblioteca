@@ -1,0 +1,45 @@
+﻿<Page x:Class="capaPresentacion.Paginas.RegistrarAsistencia"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:capaPresentacion.Paginas"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="RegistrarAsistencia" Loaded="Page_Loaded">
+
+    <Viewbox>
+        <Grid Background="White" Height="450" Width="800">
+            <Label Style="{DynamicResource LabelStyle}" 
+               Content="LISTA DE ESTUDIANTES A  REGISTRAR ASISTENCIA"
+               HorizontalAlignment="Left"
+               Height="34" Margin="147,20,0,0"
+               VerticalAlignment="Top" 
+               Width="544" 
+               />
+            <TextBox x:Name="tb_buscarCodigoEstudiante" HorizontalAlignment="Left" Height="25" Margin="258,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" TextChanged="tb_buscarCodigoEstudiante_TextChanged" />
+            <DataGrid x:Name="dg_registros"
+                      ItemsSource="{Binding}"
+                      HorizontalAlignment="Left"
+                      Margin="104,133,0,89"
+                      Width="Auto"
+                      Height="Auto"
+                      SelectionChanged="dg_registros_SelectionChanged"
+                      IsReadOnly="True" 
+                      />
+
+            <Button Style="{DynamicResource ButtonStyle}"
+                x:Name="b_registrar" 
+                Content="REGISTRAR" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Top"
+                Margin="0,386,0,0"
+                Height="37" 
+                Width="110" Click="b_registrar_Click" 
+        />
+            <Button Style="{DynamicResource ButtonStyle}" Content="BUSCAR" HorizontalAlignment="Left" Margin="539,86,0,0" VerticalAlignment="Top" Height="31" Width="132" Background="GreenYellow"/>
+            <Label Content="Código Estudiante:" HorizontalAlignment="Left" Height="25" Margin="147,89,0,0" VerticalAlignment="Top" Width="113"/>
+
+        </Grid>
+    </Viewbox>
+</Page>

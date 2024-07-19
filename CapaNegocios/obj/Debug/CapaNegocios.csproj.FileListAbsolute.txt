@@ -1,0 +1,150 @@
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe.config
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe.config
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\obj\Debug\App.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios_MarkupCompile.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.Properties.Resources.resources
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.GenerateResource.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe.config
+D:\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe
+D:\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe
+D:\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe.config
+D:\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\SistemaBiblioteca\CapaNegocios\obj\Debug\App.g.cs
+D:\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios_MarkupCompile.cache
+D:\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.Properties.Resources.resources
+D:\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.GenerateResource.cache
+D:\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+D:\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.exe
+D:\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\obj\Debug\App.g.cs
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios_MarkupCompile.cache
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.Properties.Resources.resources
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.GenerateResource.cache
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.exe
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe.config
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe.config
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+D:\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe.config
+D:\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe
+D:\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe
+D:\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe.config
+D:\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\App.g.cs
+D:\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios_MarkupCompile.cache
+D:\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.Properties.Resources.resources
+D:\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.GenerateResource.cache
+D:\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+D:\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.exe
+D:\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe.config
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe.config
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\App.g.cs
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios_MarkupCompile.cache
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.Properties.Resources.resources
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.GenerateResource.cache
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.exe
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe.config
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe.config
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\App.g.cs
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios_MarkupCompile.cache
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.Properties.Resources.resources
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.GenerateResource.cache
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.exe
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe.config
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe.config
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\obj\Debug\App.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios_MarkupCompile.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.Properties.Resources.resources
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.GenerateResource.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.exe
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.exe
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\bin\Debug\CapaDatos.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\obj\Debug\App.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios_MarkupCompile.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.Properties.Resources.resources
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.GenerateResource.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.exe
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaNegocios.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaNegocios.exe
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaDatos.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\App.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios_MarkupCompile.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.Properties.Resources.resources
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.csproj.GenerateResource.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.exe
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaNegocios.exe.config
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaNegocios.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaDatos.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\bin\Debug\CapaDatos.exe.config
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\App.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios_MarkupCompile.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.Properties.Resources.resources
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.csproj.GenerateResource.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaNegocios\obj\Debug\CapaNegocios.pdb

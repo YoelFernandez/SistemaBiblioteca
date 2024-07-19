@@ -1,0 +1,164 @@
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaNegocios.exe
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaDatos.exe.config
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaNegocios.exe.config
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Stylos\Stylos.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Login.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\MainWindow.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\AgregarEditarLibro.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\EstudianteLibro.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\Gestionar.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\Inicio.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\LibrosPrestar.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\PrestamosHistorial.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\RegistrarAsistencia.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\App.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion_MarkupCompile.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion_MarkupCompile.lref
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\App.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Login.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\MainWindow.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\AgregarEditarLibro.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\EstudianteLibro.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\Gestionar.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\Inicio.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\LibrosPrestar.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\PrestamosHistorial.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\RegistrarAsistencia.baml
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.g.resources
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPres.209BE91D.Up2Date
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.pdb
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaNegocios.exe
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaDatos.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\bin\Debug\CapaNegocios.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Stylos\Stylos.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Login.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\MainWindow.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\AgregarEditarLibro.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\EstudianteLibro.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\Gestionar.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\Inicio.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\LibrosPrestar.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\PrestamosHistorial.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\RegistrarAsistencia.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\App.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion_MarkupCompile.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion_MarkupCompile.lref
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\App.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Login.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\MainWindow.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\AgregarEditarLibro.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\EstudianteLibro.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\Gestionar.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\Inicio.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\LibrosPrestar.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\PrestamosHistorial.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\Paginas\RegistrarAsistencia.baml
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.g.resources
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPres.209BE91D.Up2Date
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\capaPresentacion\obj\Debug\capaPresentacion.pdb
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaNegocios.exe
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaDatos.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaNegocios.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Stylos\Stylos.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Login.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\MainWindow.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\AgregarEditarLibro.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\EstudianteLibro.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\EvalFernandezSaldaña.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\Gestionar.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\Inicio.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\LibrosPrestar.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\PrestamosHistorial.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\RegistrarAsistencia.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\App.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion_MarkupCompile.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion_MarkupCompile.lref
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\App.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Login.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\MainWindow.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\AgregarEditarLibro.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\EstudianteLibro.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\EvalFernandezSaldaña.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\Gestionar.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\Inicio.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\LibrosPrestar.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\PrestamosHistorial.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\RegistrarAsistencia.baml
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.g.resources
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPres.209BE91D.Up2Date
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaDatos.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaNegocios.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaDatos.exe.config
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\bin\Debug\CapaNegocios.exe.config
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Stylos\Stylos.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Login.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\MainWindow.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\AgregarEditarLibro.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\EstudianteLibro.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\EvalFernandezSaldaña.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\Gestionar.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\Inicio.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\LibrosPrestar.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\PrestamosHistorial.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\RegistrarAsistencia.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\App.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion_MarkupCompile.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion_MarkupCompile.lref
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\App.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Login.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\MainWindow.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\AgregarEditarLibro.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\EstudianteLibro.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\EvalFernandezSaldaña.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\Gestionar.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\Inicio.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\LibrosPrestar.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\PrestamosHistorial.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\Paginas\RegistrarAsistencia.baml
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.g.resources
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPres.209BE91D.Up2Date
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\capaPresentacion\obj\Debug\capaPresentacion.pdb

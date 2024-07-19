@@ -1,0 +1,32 @@
+﻿<Page x:Class="capaPresentacion.Paginas.LibrosPrestar"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:capaPresentacion.Paginas"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="LibrosPrestar" Loaded="Page_Loaded">
+
+    <Grid Background="White" Height="450" Width="800">
+        <DataGrid x:Name="dg_libros" HorizontalAlignment="Center" Height="170" Margin="0,116,0,0" VerticalAlignment="Top" Width="780" ItemsSource="{Binding}" MouseDoubleClick="dg_libros_MouseDoubleClick" FontSize="16" IsReadOnly="True"/>
+        <DataGrid x:Name="dg_prestamos" HorizontalAlignment="Left" Height="129" Margin="56,311,0,0" VerticalAlignment="Top" Width="510"  RenderTransformOrigin="0.578,0.568" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Height="30" Margin="360,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="340" FontSize="16"/>
+        <Image HorizontalAlignment="Left" Height="30" Margin="711,67,0,0" VerticalAlignment="Top" Width="38" Source="https://imgs.search.brave.com/pZtQOLMR1fq-L9X-ayp2cspOeo7kMspLdDBbNgc8LhU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni83NTEvNzUxNDYz/LnBuZw"/>
+        <Button Style="{DynamicResource ButtonStyle}" Content="LIMPIAR" HorizontalAlignment="Left" Height="26" Margin="629,385,0,0" VerticalAlignment="Top" Width="89" RenderTransformOrigin="0.5,0.5" Background="#FFD2730A" FontWeight="Bold" Click="Button_Click_1">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.022"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button Style="{DynamicResource ButtonStyle}" Content="PRESTAR" HorizontalAlignment="Left" Height="26" Margin="629,323,0,0" VerticalAlignment="Top" Width="92" Background="#FFD2730A" FontWeight="Bold" Click="Button_Click" />
+        <Label Style="{DynamicResource LabelStyle}" Content="Seleccionar libros a prestar" HorizontalAlignment="Left" Height="31" Margin="216,17,0,0" VerticalAlignment="Top" Width="350"  FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="tb_codigoEstudiante1" HorizontalAlignment="Left" Height="30" Margin="163,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" IsEnabled="False"/>
+        <Label Content="CodigoEstud:" HorizontalAlignment="Left" Height="30" Margin="68,67,0,0" VerticalAlignment="Top" Width="90"/>
+    </Grid>
+
+</Page>

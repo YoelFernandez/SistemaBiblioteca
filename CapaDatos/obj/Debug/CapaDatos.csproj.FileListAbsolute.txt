@@ -1,0 +1,110 @@
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe.config
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\obj\Debug\App.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos_MarkupCompile.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe.config
+D:\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe
+D:\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\SistemaBiblioteca\CapaDatos\obj\Debug\App.g.cs
+D:\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos_MarkupCompile.cache
+D:\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+D:\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+D:\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.exe
+D:\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe.config
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\obj\Debug\App.g.cs
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos_MarkupCompile.cache
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.exe
+D:\PROYECTAPLICADAAAAA\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Borrador\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe.config
+D:\Borrador\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe
+D:\Borrador\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\App.g.cs
+D:\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos_MarkupCompile.cache
+D:\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+D:\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+D:\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.exe
+D:\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe.config
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\App.g.cs
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos_MarkupCompile.cache
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.exe
+C:\clases unc\clase\ciclo 4\Programación Aplicada I\proyectos\v2\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe.config
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\App.g.cs
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos_MarkupCompile.cache
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.exe
+D:\nuevo proey josue\Borrador\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe.config
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\obj\Debug\App.g.cs
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos_MarkupCompile.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\V2\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\obj\Debug\App.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos_MarkupCompile.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\vfina\SistemaBiblioteca\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\bin\Debug\CapaDatos.exe.config
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\bin\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\App.g.cs
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos_MarkupCompile.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.exe
+D:\PROYECTOOOOS\vfina\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\bin\Debug\CapaDatos.exe.config
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\bin\Debug\CapaDatos.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\App.g.cs
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos_MarkupCompile.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.Properties.Resources.resources
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.csproj.GenerateResource.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.exe
+C:\Users\ayoel\OneDrive\INGINIERÍA DE SISTEMAS\04 Cuarto ciclo\Programación aplicada\Clases\Unidad 03\SistemaBibliotecaVercionFinal\CapaDatos\obj\Debug\CapaDatos.pdb

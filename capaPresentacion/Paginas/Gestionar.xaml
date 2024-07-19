@@ -1,0 +1,23 @@
+﻿<Page x:Class="capaPresentacion.Paginas.Gestionar"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:capaPresentacion.Paginas"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Gestionar" Loaded="Page_Loaded">
+    <Viewbox>
+        <Grid Background="White" Height="450" Width="800">
+            <TextBox x:Name="tb_buscarLibroCodigo" HorizontalAlignment="Left" Margin="137,89,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="278" Height="32" TextChanged="tb_buscarLibroCodigo_TextChanged" IsEnabled="False"/>
+            <Label Style="{DynamicResource LabelStyle}" x:Name="label" Content="AGREGAR / ELIMINAR LIBRO DE LA BASE DE DATOS" HorizontalAlignment="Center" Margin="0,22,0,0" VerticalAlignment="Top" Width="580"/>
+            <Button Style="{DynamicResource ButtonStyle}" x:Name="button" Content="Buscar" Background="Blue" Foreground="White" BorderBrush="White"  Margin="623,86,49,0" VerticalAlignment="Top" Height="32" Width="128"/>
+            <DataGrid x:Name="dg_libros" ItemsSource="{Binding}" Margin="123,152,10,10" FontSize="9" Height="Auto" Width="Auto" SelectionChanged="dg_libros_SelectionChanged" IsReadOnly="True"/>
+            <Button x:Name="b_nuevoLibro" Content="Nuevo libro" Background="Orange" Foreground="White"  Margin="10,192,702,0" VerticalAlignment="Top" Height="33" Width="88" Style="{DynamicResource ButtonStyle}" Click="b_nuevoLibro_Click"/>
+            <Button x:Name="b_editarLibro" Content="Editar Libro" Background="Orange" Foreground="White"  Margin="10,264,702,0" VerticalAlignment="Top" Height="32" Width="88" Style="{DynamicResource ButtonStyle}" Click="b_editarLibro_Click"/>
+            <Button x:Name="b_eliminarLibro" Content="Eliminar" Background="Orange" Foreground="White"  Margin="10,340,702,0" VerticalAlignment="Top" Height="33" Width="88" Style="{DynamicResource ButtonStyle}" Click="b_eliminarLibro_Click"/>
+            <Label Content="Codigo Libro:" HorizontalAlignment="Left" Height="32" Margin="54,89,0,0" VerticalAlignment="Top" Width="102"/>
+
+        </Grid>
+    </Viewbox>
+</Page>
